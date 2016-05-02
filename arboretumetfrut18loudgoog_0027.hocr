@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut18loudgoog_0027.png"; bbox 0 0 879 1344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 254 137 628 189">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 254 137 628 189">
+     <span class='ocr_line' id='line_1_1' title="bbox 366 137 591 163; baseline 0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 366 137 444 157; x_wconf 62' lang='lat' dir='ltr'>Mama-</span> <span class='ocrx_word' id='word_1_2' title='bbox 451 138 518 153; x_wconf 61' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_3' title='bbox 589 161 591 163; x_wconf 17' lang='grc' dir='ltr'>η</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 254 169 628 189; baseline -0.003 -4"><span class='ocrx_word' id='word_1_4' title='bbox 254 169 287 185; x_wconf 73' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_5' title='bbox 293 169 457 189; x_wconf 61' lang='lat' dir='ltr'>heartahnped-Ieaued</span> <span class='ocrx_word' id='word_1_6' title='bbox 462 170 541 185; x_wconf 67' lang='lat' dir='ltr'>decidam</span> <span class='ocrx_word' id='word_1_7' title='bbox 548 169 628 189; x_wconf 70' lang='lat' dir='ltr'>Magnolin.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 343 747 479 760">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 343 747 479 760">
+     <span class='ocr_line' id='line_1_3' title="bbox 343 747 479 760; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 343 747 359 760; x_wconf 71' lang='grc' dir='ltr'>ιη</span> <span class='ocrx_word' id='word_1_9' title='bbox 364 747 376 757; x_wconf 73' lang='grc' dir='ltr'>ιι,</span> <span class='ocrx_word' id='word_1_10' title='bbox 380 747 409 759; x_wconf 65' lang='lat' dir='ltr'>num.</span> <span class='ocrx_word' id='word_1_11' title='bbox 413 747 443 760; x_wconf 58' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_12' title='bbox 447 747 479 757; x_wconf 57' lang='lat' dir='ltr'>ann„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 410 794 421 803">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 410 794 421 803">
+     <span class='ocr_line' id='line_1_4' title="bbox 410 794 421 803; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 410 794 421 803; x_wconf 60' lang='lat' dir='ltr'>x</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

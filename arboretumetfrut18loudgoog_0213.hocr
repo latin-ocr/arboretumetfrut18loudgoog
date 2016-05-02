@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut18loudgoog_0213.png"; bbox 0 0 879 1344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 116 633 168">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 116 633 168">
+     <span class='ocr_line' id='line_1_1' title="bbox 334 116 543 131; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 334 116 425 131; x_wconf 67' lang='lat' dir='ltr'>Gledmelai·</span> <span class='ocrx_word' id='word_1_2' title='bbox 431 116 543 131; x_wconf 57' lang='lat' dir='ltr'>mintha.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 242 147 633 168; baseline -0.003 -5"><span class='ocrx_word' id='word_1_3' title='bbox 242 148 275 163; x_wconf 74' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_4' title='bbox 281 148 375 168; x_wconf 64' lang='lat' dir='ltr'>long-spinea</span> <span class='ocrx_word' id='word_1_5' title='bbox 382 147 480 166; x_wconf 73' lang='lat' dir='ltr'>Gleditnchin,</span> <span class='ocrx_word' id='word_1_6' title='bbox 487 153 505 162; x_wconf 78' lang='lat' dir='ltr'>m-</span> <span class='ocrx_word' id='word_1_7' title='bbox 512 148 567 167; x_wconf 73' lang='lat' dir='ltr'><em>Honaey</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 574 147 633 162; x_wconf 62' lang='lat' dir='ltr'><em>Lanu,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 954 678 979">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 199 954 678 979">
+     <span class='ocr_line' id='line_1_3' title="bbox 199 954 678 979; baseline 0 -15"><span class='ocrx_word' id='word_1_9' title='bbox 199 954 263 967; x_wconf 69' lang='lat' dir='ltr'>run-nm</span> <span class='ocrx_word' id='word_1_10' title='bbox 268 956 291 965; x_wconf 56' lang='grc' dir='ltr'>«με</span> <span class='ocrx_word' id='word_1_11' title='bbox 295 956 306 964; x_wconf 79' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_12' title='bbox 311 955 338 967; x_wconf 70' lang='lat' dir='ltr'>sym</span> <span class='ocrx_word' id='word_1_13' title='bbox 343 958 346 966; x_wconf 63' lang='lat'>2</span> <span class='ocrx_word' id='word_1_14' title='bbox 352 955 363 965; x_wconf 69' lang='grc' dir='ltr'>ετ</span> <span class='ocrx_word' id='word_1_15' title='bbox 368 955 523 979; x_wconf 40' lang='lat' dir='ltr'>niwdfffflffiffn</span> <span class='ocrx_word' id='word_1_16' title='bbox 527 955 533 965; x_wconf 77' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 538 954 554 966; x_wconf 63' lang='grc' dir='ltr'>ιι.</span> <span class='ocrx_word' id='word_1_18' title='bbox 558 955 578 964; x_wconf 73' lang='lat' dir='ltr'>..a</span> <span class='ocrx_word' id='word_1_19' title='bbox 583 955 615 964; x_wconf 64' lang='lat' dir='ltr'>anm</span> <span class='ocrx_word' id='word_1_20' title='bbox 620 954 646 964; x_wconf 62' lang='lat' dir='ltr'>mn</span> <span class='ocrx_word' id='word_1_21' title='bbox 650 955 662 964; x_wconf 69' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_22' title='bbox 666 955 678 964; x_wconf 82' lang='lat' dir='ltr'>n.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

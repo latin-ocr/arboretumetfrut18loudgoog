@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut18loudgoog_0211.png"; bbox 0 0 879 1344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 153 656 205">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 153 656 205">
+     <span class='ocr_line' id='line_1_1' title="bbox 302 153 550 173; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 302 153 392 168; x_wconf 61' lang='lat' dir='ltr'>Gledsswkh</span> <span class='ocrx_word' id='word_1_2' title='bbox 399 153 462 168; x_wconf 61' lang='lat' dir='ltr'><em>homa«</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 466 154 550 173; x_wconf 55' lang='lat' dir='ltr'>purpurea.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 193 184 656 205; baseline -0.002 -6"><span class='ocrx_word' id='word_1_4' title='bbox 193 184 226 199; x_wconf 67' lang='lat' dir='ltr'>&#39;nm</span> <span class='ocrx_word' id='word_1_5' title='bbox 233 185 285 204; x_wconf 76' lang='lat' dir='ltr'>purple</span> <span class='ocrx_word' id='word_1_6' title='bbox 292 185 402 205; x_wconf 62' lang='grc' dir='ltr'>ιιοι-ήα-φωα</span> <span class='ocrx_word' id='word_1_7' title='bbox 408 185 504 202; x_wconf 55' lang='lat' dir='ltr'>astansem»,</span> <span class='ocrx_word' id='word_1_8' title='bbox 511 189 529 199; x_wconf 80' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_9' title='bbox 536 185 591 203; x_wconf 74' lang='lat' dir='ltr'><strong><em>Honey</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 597 184 656 199; x_wconf 68' lang='lat' dir='ltr'><em>Locum.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 339 715 463 727">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 339 715 463 727">
+     <span class='ocr_line' id='line_1_3' title="bbox 339 715 463 727; baseline -0.008 -2"><span class='ocrx_word' id='word_1_11' title='bbox 339 715 463 727; x_wconf 49' lang='lat' dir='ltr'>:nmmum-mmm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 692 115 712 131">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 692 115 712 131">
+     <span class='ocr_line' id='line_1_4' title="bbox 692 115 712 131; baseline 0.05 -1"><span class='ocrx_word' id='word_1_12' title='bbox 692 115 712 131; x_wconf 82' lang='lat'>9⁷</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
